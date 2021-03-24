@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marvinn\\Downloads\\PrimeNumbersConsole\\PrimeNumbersConsole\\PrimeNumbersConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marvinn\\Downloads\\PrimeNumbersConsole\\PrimeNumbersConsole\\PrimeNumbersConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marvinn\\Downloads\\PrimeNumbersConsole\\PrimeNumbersConsole\\PrimeNumbersConsole.csproj",
+        "projectName": "PrimeNumbersConsole",
+        "projectPath": "C:\\Users\\Marvinn\\Downloads\\PrimeNumbersConsole\\PrimeNumbersConsole\\PrimeNumbersConsole.csproj",
+        "packagesPath": "C:\\Users\\Marvinn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marvinn\\Downloads\\PrimeNumbersConsole\\PrimeNumbersConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marvinn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://derivconugetlib": {},
+          "http://nugetlib": {},
+          "http://nugetorg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

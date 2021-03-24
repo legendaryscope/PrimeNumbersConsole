@@ -1,0 +1,12 @@
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\bin\Debug\netcoreapp3.1\PrimeNumbersConsole.exe
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\bin\Debug\netcoreapp3.1\PrimeNumbersConsole.deps.json
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\bin\Debug\netcoreapp3.1\PrimeNumbersConsole.runtimeconfig.json
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\bin\Debug\netcoreapp3.1\PrimeNumbersConsole.runtimeconfig.dev.json
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\bin\Debug\netcoreapp3.1\PrimeNumbersConsole.dll
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\bin\Debug\netcoreapp3.1\PrimeNumbersConsole.pdb
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\obj\Debug\netcoreapp3.1\PrimeNumbersConsole.AssemblyInfoInputs.cache
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\obj\Debug\netcoreapp3.1\PrimeNumbersConsole.AssemblyInfo.cs
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\obj\Debug\netcoreapp3.1\PrimeNumbersConsole.csproj.CoreCompileInputs.cache
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\obj\Debug\netcoreapp3.1\PrimeNumbersConsole.dll
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\obj\Debug\netcoreapp3.1\PrimeNumbersConsole.pdb
+C:\Users\Marvinn\Downloads\PrimeNumbersConsole\PrimeNumbersConsole\obj\Debug\netcoreapp3.1\PrimeNumbersConsole.genruntimeconfig.cache
